@@ -1,2 +1,3 @@
 # API Gateway Documentation
 ## Authentication Methods API Key based authentication is supported... 
+# API Gateway Documentation v1.0
